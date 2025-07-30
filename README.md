@@ -46,7 +46,7 @@ Alternatively, if using Anaconda, create an environment or install packages:
 bash
 conda install pandas scikit-learn
 3. Run the Jupyter Notebook
-Open the project notebook (e.g., Employee_Salary_Estimator.ipynb) in Jupyter Notebook or Jupyter Lab and run the cells step-by-step:
+Open the project notebook (e.g., EmployeeSalaryEstimator.ipynb) in Jupyter Notebook or Jupyter Lab and run the cells step-by-step:
 
 bash
 jupyter notebook Employee_Salary_Estimator.ipynb
